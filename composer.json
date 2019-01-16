@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "muhsamsul\\yii2\\rest_api_doc\\": ""
+            "muhsamsul\\yii2\\rest_api_doc\\": "1.0"
         }
     }
 }
